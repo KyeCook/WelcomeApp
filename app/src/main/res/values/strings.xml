@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WelcomeIT</string>
+    <string name="welcomeText">Welcome to Mobile Tech Testing App</string>
+    <string name="kapowImageText">Kapow Image</string>
+</resources>
